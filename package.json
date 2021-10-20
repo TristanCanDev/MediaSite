@@ -1,0 +1,17 @@
+{
+  "name": "mediasite",
+  "version": "0.0.1",
+  "description": "A site similar to youtube to play media from",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tristan Bouchard",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "flakeid": "^1.0.0",
+    "formidable": "^1.2.2"
+  }
+}

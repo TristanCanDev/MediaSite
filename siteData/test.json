@@ -1,0 +1,14 @@
+{
+    "videos":{
+        "a":{
+            "title":"Cat - Is cat",
+            "vUrl":"http://10.0.0.151/video/video0-36.mov",
+            "tNail":"TestThumbNail"
+        },
+        "b":{
+            "title":"AE Goes",
+            "vUrl":"http://10.0.0.151/video/AE-goes.mp4",
+            "tNail":"TestThumbNail2"
+        }
+    }
+}
